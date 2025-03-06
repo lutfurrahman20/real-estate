@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏡 Real Estate Web App
 
 A modern and responsive real estate web application built with **React.js** and **Tailwind CSS**. This project aims to provide users with an intuitive interface to browse, search, and filter property listings seamlessly.
@@ -22,3 +23,5 @@ A modern and responsive real estate web application built with **React.js** and 
 
 ![Real Estate App Preview](public/realEstate.png)
 
+=======
+>>>>>>> 992c4d9 (updated file)
