@@ -17,7 +17,8 @@ A modern and responsive real estate web application built with **React.js** and 
 - **Data Fetching:** Fetch API / Axios
 - **State Management:** useState, useEffect, Context API (if needed)
 - **Deployment:** Vercel
-📸 Project Preview
+  
+## 📸 Project Preview
 
 ![Real Estate App Preview](public/realEstate.png)
 
