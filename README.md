@@ -1,12 +1,23 @@
-# React + Vite
+# 🏡 Real Estate Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive real estate web application built with **React.js** and **Tailwind CSS**. This project aims to provide users with an intuitive interface to browse, search, and filter property listings seamlessly.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Modern UI/UX** – Designed with Tailwind CSS for a sleek and responsive interface.
+- **Reusable Components** – Modular React components for the header, footer, property listings, and more.
+- **Dynamic Property Listings** – Fetches real estate data from an API and displays it dynamically.
+- **Advanced Search & Filtering** – Users can refine their search based on property type, location, price range, and more.
+- **Pagination Support** – Optimized navigation for large datasets.
+- **Deployment Ready** – Can be hosted on platforms like Vercel.
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend:** React.js, Tailwind CSS
+- **Data Fetching:** Fetch API / Axios
+- **State Management:** useState, useEffect, Context API (if needed)
+- **Deployment:** Vercel
+📸 Project Preview
+
+![Real Estate App Preview](public/realEstate.png)
+
